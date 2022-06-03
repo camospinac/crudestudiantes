@@ -5,9 +5,8 @@ import java.sql.*;
 import java.util.*;
 
 /**
- * Clase que hace de Modelo, permite enviar y recibir información de la base de datos
  * 
- * @author Cristhian Forero
+ * @author Yulli Saavedra
  * 
  */
 

@@ -6,9 +6,8 @@ import java.sql.Date;
 import java.util.*;
 
 /**
- * Clase que hace de Controlador, permite interactuar entre la vista y el modelo según la peticioón realizada
- * por el usuario desde la interfaz gráfica
- * @author Cristhian Forero
+ * 
+ * @author Yulli Saavedra
  * 
  */
 

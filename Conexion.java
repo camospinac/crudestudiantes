@@ -2,6 +2,11 @@
 package proyecto_mysql;
 import java.sql.*;
 
+/**
+ * 
+ * @author Yulli Saavedra
+ * 
+ */
 
 public class Conexion {
     

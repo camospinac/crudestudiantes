@@ -6,9 +6,8 @@ import javax.swing.*;
 import javax.swing.table.*;
 
 /**
- * Clase que contiene la Interfaz Gráfica (Vista)
  * 
- * @author Cristhian Forero
+ * @author Yulli Saavedra
  * 
  */
 
